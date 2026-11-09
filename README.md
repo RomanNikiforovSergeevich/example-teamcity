@@ -37,11 +37,19 @@
 
 ------
 
+   [.teamcity/settings.kts](.teamcity/settings.kts)
+   
    ![Задание](/img/1.jpg)
    
    ![Задание](/img/2.jpg)
    
    ![Задание](/img/3.jpg)
+   
+   ![Задание](/img/4.jpg)
+   
+   ![Задание](/img/5.jpg)
+   
+   
 
 ------
 
